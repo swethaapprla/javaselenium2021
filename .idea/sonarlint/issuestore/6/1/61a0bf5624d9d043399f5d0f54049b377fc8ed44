@@ -1,0 +1,11 @@
+
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8¯àï“/
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òß!8¸ôç“/
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óŒ‹ûÿÿÿÿ8õ¨Ş“/
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾ŸÀîşÿÿÿÿ8õ¨Ş“/
+K
+java:S1068")Remove this unused "email" private field.(óŒ‹ûÿÿÿÿ8ğô“/
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ìÁ•½ıÿÿÿÿ8¨Óå“/
+N
+java:S1068",Remove this unused "password" private field.(ìÁ•½ıÿÿÿÿ8ğô“/

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon Price Checker">
+    <test name="E2E Test">
+        <!--
+        Pass the Credentials
+        -->
+        <parameter name="email" value=""/>
+        <parameter name="passw" value=""/>
+        <classes>
+            <!--<class name="com.test.HomePageTest"/>-->
+            <class name="com.test.E2ETest"/>
+            <!--<class name="com.test.CheckOutPageTest"/>
+            <class name="com.test.LoginPageTest"/>
+            <class name="com.test.PdpPageTest"/>
+            <class name="com.test.SearchPageTest"/>-->
+        </classes>
+    </test>
+</suite>

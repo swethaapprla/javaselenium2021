@@ -1,0 +1,6 @@
+
+u
+java:S1104"SMake BROWSER a static final constant or non-public and provide accessors if needed.(¡Áéÿÿÿÿÿ8¦Ùà/
+s	java:S116"RRename this field "BROWSER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Áéÿÿÿÿÿ8¦Ùà/
+d
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(°´¨b8¦Ìï/

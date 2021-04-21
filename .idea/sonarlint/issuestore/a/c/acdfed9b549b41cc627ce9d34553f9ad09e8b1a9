@@ -1,0 +1,7 @@
+
+>	java:S131S""Add a default case to this switch.(Ú¯®³8±·ï‘/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÇŸ8±·ï‘/
+>	java:S131=""Add a default case to this switch.(Ú¯®³8ãÆò‘/
+n	java:S116"RRename this field "_config" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒˆÖ‹8±·ï‘/
+H
+java:S1168]"+Return an empty collection instead of null.(¥¹ï8±·ï‘/
